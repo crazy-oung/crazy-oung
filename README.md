@@ -1,15 +1,11 @@
-## Hi there 👋
+## 👋 [@dayounghan.com](http://dayounghan.com)
 
-- 🔭 I’m currently working as **Backend Developer.**
-- 🌱 I’m currently trying to learn **Frontend skills.**
-- 👯 I’m looking to collaborate on Some **new side projects.**
-- 🤔 I’m looking for help with **Algorithm**
-- 💬 Ask me about **Anything.**
-- 📫 How to reach me: **Contact me on [E-mail](mailto:d_yng@naver.com)!**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrazy-oung&count_bg=%23010101&title_bg=%23010101&icon=github.svg&icon_color=%23FFFFFF&title=crazy-oung&edge_flat=true)](https://hits.seeyoufarm.com)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-oung&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Dayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazy-oung&show_icons=true&theme=graywhite&count_private=true&line_height=20)
 <br/>
 
-- 😄 visit me: [@dayounghan.com](http://dayounghan.com)
-- ⚡ Fun fact: I like to seek for Beautiful Designs.
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrazy-oung)](https://hits.seeyoufarm.com)
+<br/>
+
